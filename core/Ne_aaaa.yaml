@@ -12013,7 +12013,6 @@ log-level: error
 external-controller: 192.168.50.1:9990
 experimental:
   ignore-resolve-fail: true
-external-ui: dashboard
 secret: "clash"
 profile:
   store-selected: true
